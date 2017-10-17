@@ -1,0 +1,6 @@
+<form method="GET" action="authenticate">
+  <label for="name">Name</label>
+  <input type="text" ng-model="ctrl.login" name="login" id="name" />
+  <input type="hidden" value="{{ctrl.service}}" name="service" />
+  <input type="submit" value="Submit" />
+</form>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ng-app="cas" ng-strict-di>
+  <head>
+    <base href="/">
+    <meta charset="utf-8">
+
+    <script src="angular.js"></script>
+    <script src="angular-route.min.js"></script>
+    <script src="components/cas.module.js"></script>
+    <script src="components/login/login.controller.js"></script>
+  </head>
+
+  <body ng-controller="LoginController as ctrl">
+    <div ng-view ng-cloak></div>
+  </body>
+
+</html>
