@@ -19,7 +19,7 @@ With:
 
 **Nb:** If process is launched as a sub process it will send a message to its parent process when starting:
 
-```json
+```js
 {status: 'started'}
 ```
 
@@ -27,7 +27,7 @@ With:
 
 The database user must be a simple JSON file containing an array of users. Each user must have a *name* property used to authenticate the user and a *attributes* property with as many properties as you want. Attributes values must be either Strings or Arrays.
 
-```json
+```js
 [
   {
     "name": "user-id", // The id of the user to log with
