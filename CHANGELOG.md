@@ -4,6 +4,10 @@
 
 - Add support for CAS protocol 2.0 in addition to 3.0.2
 
+## BUG FIXES
+
+- Fix missing angular.js and angular-route.min.js files
+
 # 1.0.0 / 2017-10-18
 
 ## FEATURES
