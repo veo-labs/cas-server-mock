@@ -7,6 +7,7 @@
 ## BUG FIXES
 
 - Fix missing angular.js and angular-route.min.js files
+- Load minified version of AngularJS
 
 # 1.0.0 / 2017-10-18
 
