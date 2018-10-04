@@ -3,6 +3,7 @@
 ## FEATURES
 
 - Add support for CAS protocol 2.0 in addition to 3.0.2
+- Add NPM package-lock.json file
 
 ## BUG FIXES
 
