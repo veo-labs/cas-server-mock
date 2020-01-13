@@ -1,3 +1,9 @@
+# 2.0.1 / 2020-01-13
+
+## BUG FIXES
+
+- Fix redirect after authentication when service has querystring
+
 # 2.0.0 / 2018-10-16
 
 ## BREAKING CHANGES
