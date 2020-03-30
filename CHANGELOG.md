@@ -1,3 +1,9 @@
+# 2.0.2 / YYYY-MM-DD
+
+## DEPENDENCIES
+
+- add NPM package-lock.json
+
 # 2.0.1 / 2020-01-13
 
 ## BUG FIXES
