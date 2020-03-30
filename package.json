@@ -22,12 +22,12 @@
   "dependencies": {
     "angular": "1.6.6",
     "angular-route": "1.6.6",
-    "body-parser": "1.18.2",
+    "body-parser": "^1.19.0",
+    "consolidate": "0.14.5",
     "cookie-parser": "1.4.3",
     "express": "4.16.1",
-    "nopt": "4.0.1",
-    "consolidate": "0.14.5",
-    "mustache": "2.3.0"
+    "mustache": "2.3.0",
+    "nopt": "4.0.1"
   },
   "devDependencies": {
     "grunt": "1.0.1",
