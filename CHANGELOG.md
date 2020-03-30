@@ -7,6 +7,7 @@
 - **consolidate** has been upgraded from 0.14.5 to **0.15.1**
 - **cookie-parser** has been upgraded from 1.4.3 to **1.4.5**
 - **express** has been upgraded from 4.16.1 to **4.17.1**
+- **mustache** has been upgraded from 2.3.0 to **3.1.0**
 
 # 2.0.1 / 2020-01-13
 
