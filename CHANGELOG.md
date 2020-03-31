@@ -1,4 +1,8 @@
-# 2.0.2 / YYYY-MM-DD
+# 3.0.0 / YYYY-MM-DD
+
+## BREAKING CHANGES
+
+- No longer tested on NodeJS &lt; 12.4.0 and NPM &lt; 6.9.0
 
 ## DEPENDENCIES
 
