@@ -20,7 +20,7 @@
     "url": "https://github.com/veo-labs/cas-server-mock.git"
   },
   "dependencies": {
-    "angular": "1.6.6",
+    "angular": "1.8.0",
     "angular-route": "1.6.6",
     "body-parser": "^1.19.0",
     "consolidate": "^0.15.1",
