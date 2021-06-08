@@ -33,7 +33,7 @@ The database user must be a simple JSON file containing an array of users. Each 
     "name": "user-id", // The id of the user to log with
     "attributes": { // User attributes
       "stringAttribute": "value",
-      "arrayAttribute": "arrayValue",
+      "arrayAttribute": ["arrayValue"],
       [...]
     }
   }
