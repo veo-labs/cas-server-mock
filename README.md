@@ -10,7 +10,7 @@ Really simple basic mock for [Apereo CAS server](https://www.apereo.org/projects
 
 Start a fake CAS server with the following command:
 
-    node node_modules/cas-server-mock/server.js --port=3004 --database=/tmp/users.json
+    npx cas-server-mock --port=3004 --database=/tmp/users.json
 
 With:
 
