@@ -28,7 +28,7 @@
     "cookie-parser": "^1.4.5",
     "express": "^4.17.1",
     "mustache": "^4.2.0",
-    "nopt": "^4.0.3"
+    "nopt": "^5.0.0"
   },
   "devDependencies": {
     "grunt": "^1.1.0",
