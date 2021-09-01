@@ -11,6 +11,9 @@
 ## DEPENDENCIES
 
 - **consolidate** has been upgraded from 0.15.1 to **0.16.0**
+- **grunt** has been removed
+- **grunt-cli** has been removed
+- **grunt-eslint** has been removed
 - **mustache** has been upgraded from 3.1.0 to **4.2.0**
 - **nopt** has been upgraded from 4.0.3 to **5.0.0**
 
