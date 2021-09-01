@@ -11,6 +11,7 @@
 ## DEPENDENCIES
 
 - **consolidate** has been upgraded from 0.15.1 to **0.16.0**
+- **mustache** has been upgraded from 3.1.0 to **4.2.0**
 
 # 3.0.0 / 2020-05-04
 
