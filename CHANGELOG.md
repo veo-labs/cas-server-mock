@@ -8,6 +8,10 @@
 
 - CAS server mock can now be launched using npx, see README.md file
 
+## DEPENDENCIES
+
+- **consolidate** has been upgraded from 0.15.1 to **0.16.0**
+
 # 3.0.0 / 2020-05-04
 
 ## BREAKING CHANGES
