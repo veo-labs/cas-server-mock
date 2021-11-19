@@ -1,6 +1,6 @@
 {
   "name": "cas-server-mock",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Simple mock for Apereo CAS server",
   "bin": "./server.js",
   "keywords": [
